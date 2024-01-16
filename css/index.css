@@ -291,6 +291,7 @@ img {
 #section .slide .text p {
   font-size: 20px;
   font-weight: 400;
+  opacity: 0;
 }
 
 #section .slick-slide.slick-current.slick-active .text p {
