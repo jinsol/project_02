@@ -177,17 +177,6 @@ img {
   position: relative;
 }
 
-/* #section > .mainpage::after {
-  content: "";
-  background-color: rgba(0, 0, 0, 0.5);
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-} */
-
 #section .slideOuter .slideInner {
   position: relative;
 }
@@ -506,25 +495,6 @@ img {
   /* width: 100%;
   height: 100%; */
 }
-
-/* #section > .notice::before {
-  content: "";
-  background-color: rgba(0, 0, 0, 0.8);
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-} */
-
-/* #section > .notice > .slideOuter2 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 100%;
-  transform: translate(-50%, -50%);
-} */
 
 #section > .notice .notice_textbox {
   position: relative;
