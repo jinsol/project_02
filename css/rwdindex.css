@@ -1,0 +1,24 @@
+/* rwdindex.css */
+
+@media screen and (max-width: 1170px) {
+  .row {
+    padding: 0 10px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  #header {
+  }
+
+  #header .menuopen {
+    display: block;
+    float: right;
+    font-size: 26px;
+    color: gray;
+    line-height: 100px;
+  }
+
+  #header .row #nav {
+    display: none;
+  }
+}
